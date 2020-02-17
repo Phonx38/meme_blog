@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995832026492",
+    "firebase_url": "https://memeblog-8ff34.firebaseio.com",
+    "project_id": "memeblog-8ff34",
+    "storage_bucket": "memeblog-8ff34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995832026492:android:611ec9513f3373f73fc0f9",
+        "android_client_info": {
+          "package_name": "com.example.meme_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995832026492-t4cagod8gl9tbtkmdsrbojudfv7a2hka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfVLQo7UPRQPl_ujznyRQsc4bA5oLMAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995832026492-t4cagod8gl9tbtkmdsrbojudfv7a2hka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
